@@ -2,9 +2,22 @@
   text-align: center;
 }
 
+body{
+  background-color: black;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.container-fluid{
+  font-family: 'Lacquer', sans-serif;
+  color: white
+}
+
+.movieTitle{
+  font-size: large
 }
 
 @media (prefers-reduced-motion: no-preference) {
