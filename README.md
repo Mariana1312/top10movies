@@ -5,6 +5,16 @@ Top 10 movies of the ABC - Purchasing Department:
 ![movies](https://user-images.githubusercontent.com/17874439/74737333-52a1e800-525d-11ea-8b66-2d8d0b7f39e9.jpg)
 
 
+Adding new movie window:
+
+![add](https://user-images.githubusercontent.com/17874439/74737383-6c432f80-525d-11ea-8845-501b1c167e05.jpg)
+
+
+Sort by categories:
+
+![sort](https://user-images.githubusercontent.com/17874439/74737432-83821d00-525d-11ea-9112-30f370104e73.jpg)
+
+
 
 ## Available Scripts
 
